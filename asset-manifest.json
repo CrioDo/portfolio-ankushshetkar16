@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/portfolio-ankushshetkar16/static/css/main.5db1380d.chunk.css",
-    "main.js": "/portfolio-ankushshetkar16/static/js/main.0c10d30e.chunk.js",
-    "main.js.map": "/portfolio-ankushshetkar16/static/js/main.0c10d30e.chunk.js.map",
+    "main.js": "/portfolio-ankushshetkar16/static/js/main.6bf31980.chunk.js",
+    "main.js.map": "/portfolio-ankushshetkar16/static/js/main.6bf31980.chunk.js.map",
     "runtime-main.js": "/portfolio-ankushshetkar16/static/js/runtime-main.8c1166c2.js",
     "runtime-main.js.map": "/portfolio-ankushshetkar16/static/js/runtime-main.8c1166c2.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/portfolio-ankushshetkar16/static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.3d3fbef5.chunk.js": "/portfolio-ankushshetkar16/static/js/2.3d3fbef5.chunk.js",
-    "static/js/2.3d3fbef5.chunk.js.map": "/portfolio-ankushshetkar16/static/js/2.3d3fbef5.chunk.js.map",
+    "static/js/2.9af45766.chunk.js": "/portfolio-ankushshetkar16/static/js/2.9af45766.chunk.js",
+    "static/js/2.9af45766.chunk.js.map": "/portfolio-ankushshetkar16/static/js/2.9af45766.chunk.js.map",
     "index.html": "/portfolio-ankushshetkar16/index.html",
-    "precache-manifest.a06e04550d8a7a2a712770ed0ea83d24.js": "/portfolio-ankushshetkar16/precache-manifest.a06e04550d8a7a2a712770ed0ea83d24.js",
+    "precache-manifest.6b100ea816e325fc34c8005e35f21e21.js": "/portfolio-ankushshetkar16/precache-manifest.6b100ea816e325fc34c8005e35f21e21.js",
     "service-worker.js": "/portfolio-ankushshetkar16/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-ankushshetkar16/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.5db1380d.chunk.css.map": "/portfolio-ankushshetkar16/static/css/main.5db1380d.chunk.css.map",
-    "static/js/2.3d3fbef5.chunk.js.LICENSE.txt": "/portfolio-ankushshetkar16/static/js/2.3d3fbef5.chunk.js.LICENSE.txt",
+    "static/js/2.9af45766.chunk.js.LICENSE.txt": "/portfolio-ankushshetkar16/static/js/2.9af45766.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/portfolio-ankushshetkar16/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/portfolio-ankushshetkar16/static/media/crio-logo.63be71d0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c1166c2.js",
     "static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.3d3fbef5.chunk.js",
+    "static/js/2.9af45766.chunk.js",
     "static/css/main.5db1380d.chunk.css",
-    "static/js/main.0c10d30e.chunk.js"
+    "static/js/main.6bf31980.chunk.js"
   ]
 }
